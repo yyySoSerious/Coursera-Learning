@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: logo.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: sum_of_two_digits.py
+    visible: true
+    placeholders:
+      - offset: 220
+        length: 26
+        placeholder_text: write your code here
+        initial_state:
+          length: 20
+          offset: 220
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: sum_of_two_digits_unit_tests.py
+    visible: true
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/sLjtY/programming-assignment-1-sum-of-two-digits/discussions
+status: Unchecked
+feedback:
+  message: "Local tests passed, please <a href=\"https://www.coursera.org/learn/algorithmic-toolbox/programming/sLjtY/programming-assignment-1-sum-of-two-digits/submission\"\
+    >submit to Coursera</a>"
+  time: "Sun, 25 May 2025 11:04:31 UTC"
+record: -1

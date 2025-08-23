@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: logo.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: maximum_loot.py
+    visible: true
+    placeholders:
+      - offset: 318
+        length: 469
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 318
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: maximum_loot_unit_tests.py
+    visible: true
+    placeholders:
+      - offset: 270
+        length: 0
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 282
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/kAiGl/programming-assignment-3-greedy-algorithms/discussions
+status: Unchecked
+record: -1

@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: logo.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: maximum_pairwise_product.py
+    visible: true
+    placeholders:
+      - offset: 439
+        length: 431
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 439
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: maximum_pairwise_product_unit_tests.py
+    visible: true
+    placeholders:
+      - offset: 415
+        length: 0
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 401
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/Xscmz/programming-assignment-1-maximum-pairwise-product/discussions
+status: Unchecked
+feedback:
+  message: "Local tests passed, please <a href=\"https://www.coursera.org/learn/algorithmic-toolbox/programming/Xscmz/programming-assignment-1-maximum-pairwise-product/submission\"\
+    >submit to Coursera</a>"
+  time: "Sun, 25 May 2025 11:12:31 UTC"
+record: -1
