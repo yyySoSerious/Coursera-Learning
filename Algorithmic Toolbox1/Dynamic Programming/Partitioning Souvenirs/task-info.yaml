@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: logo.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: partition_souvenirs_unit_tests.py
+    visible: true
+    placeholders:
+      - offset: 515
+        length: 0
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 501
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: partition_souvenirs.py
+    visible: true
+    placeholders:
+      - offset: 1898
+        length: 67
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 467
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/nZrTS/programming-assignment-6-dynamic-programming-2/discussions
+status: Unchecked
+record: -1

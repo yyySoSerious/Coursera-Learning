@@ -1,0 +1,47 @@
+type: edu
+files:
+  - name: closest_points.py
+    visible: true
+    placeholders:
+      - offset: 2244
+        length: 190
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 600
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: closest_points_unit_tests.py
+    visible: true
+    placeholders:
+      - offset: 266
+        length: 0
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 278
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+      - offset: 1038
+        length: 4
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 1059
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: logo.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/w9YDz/programming-assignment-4-divide-and-conquer/discussions
+status: Unchecked
+record: -1

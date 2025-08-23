@@ -1,0 +1,47 @@
+type: edu
+files:
+  - name: logo.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: number_of_inversions_unit_tests.py
+    visible: true
+    placeholders:
+      - offset: 271
+        length: 0
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 283
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+      - offset: 785
+        length: 0
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 814
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: number_of_inversions.py
+    visible: true
+    placeholders:
+      - offset: 1052
+        length: 3
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 277
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/w9YDz/programming-assignment-4-divide-and-conquer/discussions
+status: Unchecked
+record: -1
