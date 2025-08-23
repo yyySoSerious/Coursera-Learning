@@ -1,0 +1,401 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.8.26)  18 MAY 2025 20:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ppo.tex
+(ppo.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-23>
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.s
+ty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.s
+ty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.st
+y
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen139
+))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.st
+y
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks19
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks20
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts
+.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.
+sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backe
+nd-pdftex.def
+File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count272
+\l__pdf_internal_box=\box53
+) (ppo.aux)
+\openout1 = `ppo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+Overfull \hbox (19.72292pt too wide) in paragraph at lines 11--13
+\OT1/cmr/m/n/10 how the value network is structured within AutoModelForCausalLM
+WithValueHead.
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (6.4173pt too wide) in paragraph at lines 26--27
+[]\OT1/cmr/m/n/10 The AutoModelForCausalLMWithValueHead's value network provide
+s
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+[1
+
+{/Users/culsu/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/p
+dftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 33--37
+
+ []
+
+
+Overfull \hbox (0.26324pt too wide) in paragraph at lines 44--45
+[]\OT1/cmr/m/n/10 In essence, GAE uses a combination of actual collected reward
+s within
+ []
+
+[2]
+Overfull \hbox (3.08391pt too wide) in paragraph at lines 59--60
+[]\OT1/cmr/m/n/10 The objective function encourages increasing the probability 
+of actions
+ []
+
+
+Overfull \hbox (1.0778pt too wide) in paragraph at lines 64--65
+[]\OT1/cmr/m/n/10 If the advantage is negative, the objective is $\OML/cmm/m/it
+/10 r[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R\OT1/cmr/m/n/10 )[]$. The clipping
+ []
+
+
+Overfull \hbox (6.93582pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 distribution, which measures the randomness of the policy. Maxi
+mizing
+ []
+
+
+Overfull \hbox (0.26799pt too wide) in paragraph at lines 75--76
+\OT1/cmr/m/n/10 to explore different actions.$\OML/cmm/m/it/10 ^^Y[]\OT1/cmr/m/
+n/10 (\OML/cmm/m/it/10 a[]\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 s[]\OT1/cmr/m/n/10
+ )$ is the probability of taking action
+ []
+
+
+Overfull \hbox (2.27306pt too wide) in paragraph at lines 82--83
+[]\OT1/cmr/m/n/10 A higher value for $\OML/cmm/m/it/10 L[]\OT1/cmr/m/n/10 (\OML
+/cmm/m/it/10 ^^R\OT1/cmr/m/n/10 )$ indicates that the new policy is improving
+ []
+
+[3]
+Overfull \hbox (5.93108pt too wide) in paragraph at lines 90--91
+[]\OT1/cmr/m/n/10 The value network parameters $\OML/cmm/m/it/10 ^^^$ \OT1/cmr/
+m/n/10 are updated to minimize the difference
+ []
+
+
+Overfull \hbox (8.1116pt too wide) in paragraph at lines 108--109
+[]\OT1/cmr/m/n/10 In the context of PPO, "timestep $\OML/cmm/m/it/10 t$\OT1/cmr
+/m/n/10 " refers to a specific step in the reinforcement
+ []
+
+[4]
+Overfull \hbox (46.45584pt too wide) in paragraph at lines 120--121
+[]\OT1/cmr/m/n/10 The PPO objective function [1] is defined as: $\OML/cmm/m/it/
+10 L[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R\OT1/cmr/m/n/10 ) = [][[](\OML/cmm/m
+/it/10 r[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R\OT1/cmr/m/n/10 )[]\OML/cmm/m/it
+/10 ; []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 
+^^R\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (2.86174pt too wide) in paragraph at lines 122--123
+[]\OT1/cmr/m/n/10 To compute this objective for a given batch of data, you perf
+orm the following: 
+ []
+
+
+Overfull \hbox (37.91628pt too wide) in paragraph at lines 135--137
+[]\OT1/cmr/m/n/10 So, the two networks (AutoModelForCausalLM for the policy and
+ the WithValueHead
+ []
+
+[5]
+Overfull \hbox (4.08391pt too wide) in paragraph at lines 156--157
+\OT1/cmr/m/n/10 the PPOTrainer) takes these gradients and updates the model's p
+arameters.
+ []
+
+
+Overfull \hbox (17.15819pt too wide) in paragraph at lines 160--161
+[]\OT1/cmr/m/n/10 Separate vs. Joint Optimization: In AutoModelForCausalLMWithV
+alueHead,
+ []
+
+
+Overfull \hbox (33.1118pt too wide) in paragraph at lines 160--161
+\OT1/cmr/m/n/10 the policy and value networks share the initial layers (the Aut
+oModelForCausalLM
+ []
+
+
+Overfull \hbox (118.07495pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10 stable and prevent large divergences from the previous policy. 
+The AutoModelForCausalLMWithValueHead
+ []
+
+[6]
+Overfull \hbox (6.11171pt too wide) in paragraph at lines 177--178
+\OT1/cmr/m/n/10 it only depends on the immediate reward and the next state's va
+lue estimate,
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Overfull \hbox (36.87483pt too wide) in paragraph at lines 198--199
+[]\OT1/cmr/m/n/10 In the GAE return estimate formula you mentioned, $\OML/cmm/m
+/it/10 V[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s[]\OT1/cmr/m/n/10 ) = [][](\OML/cm
+m/m/it/10 ^^M^^U\OT1/cmr/m/n/10 )[]\OML/cmm/m/it/10 r[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (30.52841pt too wide) in paragraph at lines 202--203
+[]\OT1/cmr/m/n/10 Trajectory Segment: In PPO, especially when dealing with cont
+inuous environments
+ []
+
+
+Overfull \hbox (21.25061pt too wide) in paragraph at lines 202--203
+\OT1/cmr/m/n/10 which are essentially finite segments or "rollouts" of interact
+ion with the environment.
+ []
+
+[8] [9]
+Overfull \hbox (0.7228pt too wide) in paragraph at lines 257--258
+[]\OT1/cmr/m/n/10 Calculating Rewards: The reward function (the sentiment analy
+sis pipeline
+ []
+
+
+Overfull \hbox (4.05609pt too wide) in paragraph at lines 257--258
+\OT1/cmr/m/n/10 in this case) typically evaluates the entire generated response
+ or a significant
+ []
+
+[10]
+Overfull \hbox (16.20041pt too wide) in paragraph at lines 272--273
+[]\OT1/cmr/m/n/10 Once the sequence is complete (or truncated), calculate the r
+eward(s)
+ []
+
+
+Overfull \hbox (3.9172pt too wide) in paragraph at lines 277--278
+[]\OT1/cmr/m/n/10 Using the collected data (states, actions, rewards, old value
+ predictions
+ []
+
+
+Overfull \hbox (3.25067pt too wide) in paragraph at lines 279--280
+\OT1/cmr/m/n/10 old probabilities from the rollout data, and the calculated adv
+antages). 
+ []
+
+
+Overfull \hbox (69.73956pt too wide) in paragraph at lines 290--290
+[]\OT1/cmr/bx/n/14.4 Summary of AutoModelForCausalLMWithValueHead 
+ []
+
+
+Overfull \hbox (156.58331pt too wide) in paragraph at lines 291--292
+\OT1/cmr/m/n/10 The causal language model, including the AutoModelForCausalLM p
+art of AutoModelForCausalLMWithValueHead,
+ []
+
+
+Overfull \hbox (27.95628pt too wide) in paragraph at lines 299--300
+\OT1/cmr/m/n/10 controlled by parameters like do[]sample, top[]k, top[]p in you
+r generation[]kwargs),
+ []
+
+[11]
+Overfull \hbox (3.71361pt too wide) in paragraph at lines 315--316
+\OT1/cmr/m/n/10 token with the highest probability predicted by the policy netw
+ork. Instead,
+ []
+
+
+Overfull \hbox (27.36172pt too wide) in paragraph at lines 318--319
+\OT1/cmr/m/n/10 most likely tokens whose cumulative probability exceeds p, and 
+redistributes
+ []
+
+[12]
+Overfull \hbox (2.32115pt too wide) in paragraph at lines 325--327
+\OT1/cmr/m/n/10 This sampled action $\OML/cmm/m/it/10 a[]$ \OT1/cmr/m/n/10 and 
+the state $\OML/cmm/m/it/10 s[]$ \OT1/cmr/m/n/10 (along with its value predicti
+on
+ []
+
+[13] (ppo.aux) ) 
+Here is how much of TeX's memory you used:
+ 1751 strings out of 479778
+ 26044 string characters out of 2874079
+ 327859 words of memory out of 3000000
+ 20472 multiletter control sequences out of 15000+600000
+ 474058 words of font info for 47 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 54i,7n,62p,930b,311s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ </Users/culsu/Library/Application Support/MiKTeX/texmfs/data/f
+onts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk></Library/Application Support/MiK
+TeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Applicat
+ion Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></L
+ibrary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm
+/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/
+fonts/type1/public/amsfonts/cm/cmmi12.pfb></Library/Application Support/MiKTeX/
+texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></Library/Application S
+upport/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library
+/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/ams
+fonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/ty
+pe1/public/amsfonts/cm/cmr5.pfb></Library/Application Support/MiKTeX/texmfs/ins
+tall/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKT
+eX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Applicati
+on Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on ppo.pdf (13 pages, 210645 bytes).
+PDF statistics:
+ 115 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
