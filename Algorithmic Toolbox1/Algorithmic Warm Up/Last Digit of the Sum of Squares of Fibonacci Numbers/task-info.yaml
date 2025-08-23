@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: last_digit_of_the_sum_of_squares_of_fibonacci_numbers.py
+    visible: true
+    placeholders:
+      - offset: 674
+        length: 76
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 510
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: last_digit_of_the_sum_of_squares_of_fibonacci_numbers_unit_tests.py
+    visible: true
+    placeholders:
+      - offset: 632
+        length: 0
+        placeholder_text: type here
+        initial_state:
+          length: 9
+          offset: 593
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: logo.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/discussions
+status: Unchecked
+record: -1
