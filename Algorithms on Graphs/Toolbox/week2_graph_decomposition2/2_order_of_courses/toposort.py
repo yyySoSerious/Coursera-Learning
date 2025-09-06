@@ -6,6 +6,36 @@ def dfs(adj, used, order, x):
     #write your code here
     pass
 
+def toposort3(adj):
+    n = len(adj)
+    state = [0] * n
+    idx = [0] * n
+    order = []
+    for start in range(n):
+        if state[start] != 0:
+            continue
+        stack = [start]
+        state[start] = 1
+
+        while stack:
+            v = stack[-1]
+            i = idx[v]
+            if i < len(adj[v]):
+                u = adj[v][i]
+                idx[v] = i + 1
+                if state[u] == 1:
+                    print("no topo")
+                    return []
+                if state[u] == 0:
+                    state[u] = 1
+                    stack.append(u)
+            else:
+                order.append(v)
+                state[v] = 2
+                stack.pop()
+
+    order.reverse()
+    return order
 
 def toposort(adj):
     n = len(adj)
