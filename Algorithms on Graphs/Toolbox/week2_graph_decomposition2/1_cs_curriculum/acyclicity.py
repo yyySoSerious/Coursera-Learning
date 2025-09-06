@@ -3,6 +3,32 @@
 import sys
 
 
+def acyclic2(adj):
+    n = len(adj)
+    visited = [0] * n 
+
+    for start in range(n):
+        if visited[start] != 0:
+            continue
+        stack = [(start, 0)]
+        visited[start] = 1
+
+        while stack:
+            v, i = stack[-1]
+            if i < len(adj[v]):
+                u = adj[v][i]
+                stack[-1] = (v, i + 1)
+                if visited[u] == 1:
+                    return 1
+                if visited[u] == 0:
+                    visited[u] = 1
+                    stack.append((u, 0))
+            else:
+                visited[v] = 2
+                stack.pop()
+
+    return 0
+
 def acyclic(adj):
     n = len(adj)
     visited = [0] * n
@@ -11,14 +37,17 @@ def acyclic(adj):
             stack = [start]
             visited[start] = 1
             while stack:
-                v = stack.pop()
+                v = stack[-1]
+                print(f'visited: {v+1}')
                 for neigh in adj[v]:
                     if visited[neigh] == 1:
                         return 1
                     if visited[neigh] == 0:
-                        visited[neigh] = 2
+                        visited[neigh] = 1
                         stack.append(neigh)
-            visited[start] = 2
+                if v == stack[-1]:
+                    visited[v] = 2
+                    stack.pop()
 
     return 0
 
